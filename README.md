@@ -3,7 +3,7 @@ Dusseldorf
 
 A somewhat uninspired DSL for generating SQL queries.
 
-	npm install Düsseldorf
+	npm install dusseldorf
 
 This is largely not ready for human consumption.
 
