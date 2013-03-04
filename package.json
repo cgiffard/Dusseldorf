@@ -1,0 +1,23 @@
+{
+  "name": "dusseldorf",
+  "version": "0.0.1",
+  "description": "DSL for SQL query generation",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/cgiffard/Dusseldorf.git"
+  },
+  "keywords": [
+    "mysql",
+    "sql",
+    "dsl",
+    "query",
+    "generation",
+    "generator"
+  ],
+  "author": "Christopher Giffard <christopher.giffard@cgiffard.com>",
+  "license": "BSD"
+}
