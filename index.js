@@ -27,7 +27,7 @@ function ComposeableQuery() {
 	
 	this.orderTable = null;
 	
-};
+}
 
 ComposeableQuery.prototype.toString = function() {
 	return compose(this);
